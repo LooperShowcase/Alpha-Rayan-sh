@@ -1,0 +1,49 @@
+h1 {
+  color: blue;
+}
+p {
+  color: rgba(175, 0, 0, 0.712);
+}
+body {
+  background-color: orange;
+}
+h3 {
+  color: rgb(179, 0, 27);
+}
+h2 {
+  color: rgb(227, 100, 20);
+}
+h4 {
+  color: rgb(15, 76, 92);
+}
+
+#nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+#nav-list {
+  float: left;
+}
+
+#nav-list a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+#nav-list a:hover {
+  background-color: #0a0a0a;
+}
+#Rayan{background-color: #16c9cf;
+}
+#photo{background-color: #025a0af0;
+}
+#Mainframe{background-color: #ee0707bf;
+}
+
